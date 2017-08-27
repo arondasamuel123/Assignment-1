@@ -1,0 +1,46 @@
+body{
+	background-image: url("assets/img1.jpg");
+	font-family:Baloo Bhaijaan;
+}
+
+h2 {
+	font-family:Baloo Bhaijaan;
+	color: #F2F1EF;
+	font-size: 29px;
+}
+ul{
+	list-style-type: none;
+	font-family: Baloo Bhaijaan;
+	color: #F2F1EF;
+	font-size: 100%;
+}
+#sec1{
+	position: absolute;
+	right: 3px;
+	top: 153px;
+}
+
+div{
+	color: #F2F1EF;
+}
+.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#sec2{
+	position: absolute;
+	right: 0px;
+	top: 153px;
+}
+ h3{
+ 	color: #F5EE06;
+ }
